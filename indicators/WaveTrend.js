@@ -1,5 +1,5 @@
 ({
-    name: "WaveTrend [LazyBear]",
+    name: "WaveTrend",
     metainfo: {
         _metainfoVersion: 52,
         isTVScript: false,
@@ -9,8 +9,8 @@
         format: { precision: 2, type: "price" },
         id: "WaveTrend_LB@tv-basicstudies-1",
         scriptIdPart: "",
-        name: "WaveTrend [LazyBear]",
-        description: "WaveTrend [LazyBear]",
+        name: "WaveTrend",
+        description: "WaveTrend",
         shortDescription: "WT_LB",
         defaults: {
             styles: {
