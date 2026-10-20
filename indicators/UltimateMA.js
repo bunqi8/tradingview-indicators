@@ -1,5 +1,5 @@
 ({
-    name: "CM_Ultimate_MA_MTF_V2",
+    name: "MA Ultimate MTF v2",
     metainfo: {
         _metainfoVersion: 52,
         isTVScript: false,
@@ -7,11 +7,11 @@
         is_price_study: true,
         isCustomIndicator: true,
         format: { precision: 2, type: "price" },
-        id: "CM_Ultimate_MA_MTF_V2@tv-basicstudies-1",
+        id: "MA_Ultimate_MTF_v2@tv-basicstudies-1",
         scriptIdPart: "",
-        name: "CM_Ultimate_MA_MTF_V2",
-        description: "CM_Ultimate_MA_MTF_V2",
-        shortDescription: "CM_Ultimate_MA",
+        name: "MA Ultimate MTF v2",
+        description: "MA Ultimate MTF v2",
+        shortDescription: "MA Ultimate MTF v2",
         defaults: {
             styles: {
                 plot_out1: { plottype: 0, linewidth: 3, color: "#089981", linestyle: 0, visible: true, trackPrice: false },
