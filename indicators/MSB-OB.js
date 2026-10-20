@@ -10,7 +10,7 @@
         id: "MSB_OB@tv-basicstudies-1",
         scriptIdPart: "",
         name: "MSB-OB",
-        description: "Market Structure Break & Order Block",
+        description: "MSB-OB",
         shortDescription: "MSB-OB",
         defaults: {
             styles: {

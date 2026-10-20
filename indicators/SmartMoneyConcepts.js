@@ -12,7 +12,7 @@
         id: "SmartMoneyConcepts@tv-basicstudies-1",
         scriptIdPart: "",
         name: "Smart Money Concepts",
-        description: "Smart Money Concepts [LuxAlgo]",
+        description: "Smart Money Concepts",
         shortDescription: "SMC",
         defaults: {
             styles: {
